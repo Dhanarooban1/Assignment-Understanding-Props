@@ -1,6 +1,7 @@
 import elephant from "../images/elephant.jpeg";
 
 
+
 const imageData = ()=>{
     let data = [
       {

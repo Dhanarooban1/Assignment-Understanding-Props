@@ -4,7 +4,9 @@ import AppClass from './AppClass';
 
 function App() {
   return(
-    <AppClass data={imageData} />
+    <div>
+      <AppClass data={imageData} />
+    </div>
   )
 }
 
